@@ -1,0 +1,28 @@
+
+** cargo new hello-rust
+
+Cargo.toml // manifest file for rust
+    keep metadata for your project
+         dependencies
+src/main.rs
+
+
+** cargo run
+Compiling hello-rust v0.1.0 (/Users/jzwang/Documents/codes/rust/install/hello-rust)
+    Finished dev [unoptimized + debuginfo] target(s) in 29.02s
+     Running `/Users/jzwang/Documents/codes/rust/install/hello-rust/target/debug/hello-rust`
+Hello, world!
+
+** all sortfs of libraries
+    https://crates.io
+
+** adding dependencies
+ferris-says = "0.3.1" 复制到 Cargo.toml
+  或者
+cargo add ferris-says
+
+cargo build  // cargo install our dependency for us
+
+** 使用
+use ferris_says::say
+ 使用 say 函数
