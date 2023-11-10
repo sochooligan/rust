@@ -27,3 +27,8 @@ core  // also available locally using the: rustup doc  command
      
         embedded book: https://doc.rust-lang.org/stable/embedded-book/
 	(the embedded rust book)
+
+** Master Rust
+           the reference: https://doc.rust-lang.org/reference/index.html
+        The rustonomicon: https://doc.rust-lang.org/nomicon/index.html
+  the rust unstable book: https://doc.rust-lang.org/nightly/unstable-book/index.html
