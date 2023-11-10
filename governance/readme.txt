@@ -1,6 +1,7 @@
 
 ** Governance
 // How Rust is built by its community
+    https://www.rust-lang.org/governance
 
 ** RFC process
     https://github.com/rust-lang/rfcs
