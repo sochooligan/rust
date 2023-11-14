@@ -18,21 +18,6 @@ Productivity
     multi-editor support with auto-completion and type insepctions,
     an auto-formatter
 
-** install
-
-** learn
-
-** playground
-
-** tools
-
-** governance
-
-** community
-
-** blog
-
-
 ** The Rust Programming Language
     https://doc.rust-lang.org/book/title-page.html
 
@@ -49,10 +34,8 @@ Productivity
 ** Rust Compiler Development Guide
     https://rustc-dev-guide.rust-lang.org/getting-started.html
 
-
 ** https://github.com/rust-lang/rfcs
     https://github.com/rust-lang/rfcs/blob/master/text/0507-release-channels.md
-
 
 https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
 
