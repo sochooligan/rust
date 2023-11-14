@@ -1,0 +1,14 @@
+** Generating a new project
+
+(1) 生成一个hello-rust 目录
+    cargo new hello-rust
+
+(2) 运行程序
+    cargo run
+
+(3) 为程序添加依赖
+    添加声明 cargo add ferris-says
+    安装依赖 cargo build
+
+(4) 使用依赖
+    use ferris_says::say;
